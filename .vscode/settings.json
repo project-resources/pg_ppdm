@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PPDM",
+            "database": "PPDM39",
+            "username": "ppdm_user",
+            "password": "ppdm_pass"
+        }
+    ]
+}
